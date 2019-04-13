@@ -1,0 +1,3 @@
+# 学习spring与mybatis的笔记
+这是根据spring与mybatis的知识来搭建的小项目
+
